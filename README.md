@@ -36,5 +36,3 @@
 
 🌟 **Support & Contributions**  
 Feel free to contribute or suggest improvements! If you enjoy this project, don't forget to support us by joining our channel: **@none** 🚀
-```
-
