@@ -21,7 +21,7 @@
    ```bash
    pip install aiohttp eitaapy
    ```
-2. Edit the `TOKEN` and `CHAT_ID` with your Eitaa bot credentials  
+2. Edit the [TOKEN]("https://") and `CHAT_ID` with your Eitaa bot credentials  
 3. Run the bot:  
    ```bash
    python bot.py
